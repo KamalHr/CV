@@ -1,0 +1,31 @@
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+}
+
+header {
+    background-color: #F1F2F2;
+}
+.info {
+    font-size: 10px;
+}
+.info h3 {
+    color: #EB5B5B;
+    font-size: 15px;
+    margin-bottom: -7px;
+    margin-top: -7px;
+}
+.title {
+    color: #EB5B5B;
+    font-size: 15px;
+    text-align: center;
+}
+
+#name {
+    font-size: 50px;
+    letter-spacing: -1px;
+}
+
+.avatar {
+   border-radius: 50%;
+   border: solid 2px #EB5B5B;
+}
