@@ -48,3 +48,13 @@ hr {
     height: 100px;  
     border-color: #EB5B5B;
 }
+.circle {
+    margin-top: -7px;
+}
+.circle:before {
+    content: ' \25CF';
+    color: #EB5B5B;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-top: -5px;
+}
